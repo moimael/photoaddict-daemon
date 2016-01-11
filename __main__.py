@@ -6,7 +6,6 @@ import time
 from datetime import datetime
 import io
 
-import ssdeep
 import gphoto2 as gp
 import couchdb
 import pyudev

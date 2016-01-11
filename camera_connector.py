@@ -1,6 +1,5 @@
 import os
 
-import ssdeep
 import gphoto2 as gp
 
 
